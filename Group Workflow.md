@@ -1,8 +1,8 @@
 Group members:
 
-Andrei Terbea
-Kaspars Beikerts
-Pedro Pena
+Andrei Terbea, 
+Kaspars Beikerts, 
+Pedro Pena,
 
 Group workflow :
 
